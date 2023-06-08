@@ -70,3 +70,9 @@ body{
     border-left: 5px solid rgb(231, 184, 196);
     padding-left: 5px;
 }
+.error{
+    color: rgb(184, 58, 94);
+    font-size: 25px;
+    margin-top: 50px;
+    padding: 8px;
+}
